@@ -1,0 +1,31 @@
+2022-06-05 22:56:39,504 [main] INFO No broker - sridhar
+2022-06-05 22:56:48,202 [main] INFO No broker - Testcase-1 execution start
+2022-06-05 22:56:50,510 [main] INFO No broker - Successfully Login
+2022-06-05 22:56:50,511 [main] INFO No broker - Testcase-1 is successfully executed
+2022-06-05 22:56:51,133 [main] INFO No broker - Testcase-2 execution start
+2022-06-05 22:56:56,157 [main] INFO No broker - click on menu page
+2022-06-05 22:56:56,157 [main] INFO No broker - Testcase-2 is successfully executed
+2022-06-05 22:56:56,201 [main] INFO No broker - Testcase-3 execution start
+2022-06-05 22:56:57,316 [main] INFO No broker - Successfully done of getting text
+2022-06-05 22:56:57,317 [main] INFO No broker - Testcase-3 is successfully executed
+2022-06-05 22:56:57,337 [main] INFO No broker - Testcase-4 execution start
+2022-06-05 22:56:58,016 [main] INFO No broker - Successfully went to Emi calculator
+2022-06-05 22:56:58,016 [main] INFO No broker - Testcase-4 is successfully executed
+2022-06-05 22:56:58,040 [main] INFO No broker - Testcase-8 execution start
+2022-06-05 22:57:05,179 [main] INFO No broker - Successfully now broker app
+2022-06-05 22:57:05,179 [main] INFO No broker - Testcase-8 is successfully executed
+2022-06-05 22:57:05,210 [main] INFO No broker - Testcase-5 execution start
+2022-06-05 22:57:20,565 [main] INFO No broker - Successfully went to rent
+2022-06-05 22:57:20,565 [main] INFO No broker - Testcase-5 is successfully executed
+2022-06-05 22:57:20,599 [main] INFO No broker - Testcase-6 execution start
+2022-06-05 22:57:39,019 [main] INFO No broker - Successfully Assertions 
+2022-06-05 22:57:39,020 [main] INFO No broker - Testcase-6 is successfully executed
+2022-06-05 22:57:39,040 [main] INFO No broker - Testcase-7 execution start
+2022-06-05 22:57:47,172 [main] INFO No broker - Successfully Tvappcart
+2022-06-05 22:57:47,172 [main] INFO No broker - Testcase-7 is successfully executed
+2022-06-05 22:57:47,219 [main] INFO No broker - Testcase-9 execution start
+2022-06-05 22:57:48,817 [main] INFO No broker - Successfully get site location 
+2022-06-05 22:57:48,818 [main] INFO No broker - Testcase-9 is successfully executed
+2022-06-05 22:57:48,830 [main] INFO No broker - Testcase-10 execution start
+2022-06-05 22:57:54,146 [main] INFO No broker - Successfully Infoapp
+2022-06-05 22:57:54,147 [main] INFO No broker - Testcase-10 is successfully executed
